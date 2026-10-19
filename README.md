@@ -1,8 +1,6 @@
 # Efe Müderrisoğlu
 
-<img src="assets/typing.svg" alt="Full-stack developer. FastAPI + SvelteKit + Flutter. Multi-tenant SaaS, shipped to production. From first commit to live in 12 days." />
-
-I build and ship multi-tenant SaaS products end to end: data model, API, web and mobile UI, deployment.
+Full-stack developer. I build and ship multi-tenant SaaS products end to end: data model, API, web and mobile UI, deployment.
 
 **Python · FastAPI · SvelteKit · Flutter · MySQL · Redis · Docker**
 
