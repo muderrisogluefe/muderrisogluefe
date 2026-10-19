@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="60" viewBox="0 0 640 60">
+<style>
+text{font:600 22px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#5E42FF;white-space:pre}
+.cur{fill:#5E42FF}
+@media (prefers-color-scheme:dark){text,.cur{fill:#A99AFF}}
+@keyframes r0{0.000%{transform:scaleX(0);animation-timing-function:steps(21,end)}10.000%{transform:scaleX(1);animation-timing-function:step-end}21.875%{transform:scaleX(1);animation-timing-function:steps(21,end)}24.688%{transform:scaleX(0);animation-timing-function:step-end}100%{transform:scaleX(0)}}
+@keyframes k0{0.000%{transform:translateX(0px);animation-timing-function:steps(21,end)}10.000%{transform:translateX(277.2px);animation-timing-function:step-end}21.875%{transform:translateX(277.2px);animation-timing-function:steps(21,end)}24.688%{transform:translateX(0px);animation-timing-function:step-end}100%{transform:translateX(0px)}}
+@keyframes v0{0%{opacity:1}0.000%{opacity:1}24.688%{opacity:0}100%{opacity:0}}
+#r0{transform-origin:20px 0;animation:r0 16.0s infinite}#k0{animation:k0 16.0s infinite,v0 16.0s step-end infinite}
+@keyframes r1{0%{transform:scaleX(0);animation-timing-function:step-end}25.000%{transform:scaleX(0);animation-timing-function:steps(30,end)}35.000%{transform:scaleX(1);animation-timing-function:step-end}46.875%{transform:scaleX(1);animation-timing-function:steps(30,end)}49.688%{transform:scaleX(0);animation-timing-function:step-end}100%{transform:scaleX(0)}}
+@keyframes k1{0%{transform:translateX(0px);animation-timing-function:step-end}25.000%{transform:translateX(0px);animation-timing-function:steps(30,end)}35.000%{transform:translateX(396.0px);animation-timing-function:step-end}46.875%{transform:translateX(396.0px);animation-timing-function:steps(30,end)}49.688%{transform:translateX(0px);animation-timing-function:step-end}100%{transform:translateX(0px)}}
+@keyframes v1{0%{opacity:0}25.000%{opacity:1}49.688%{opacity:0}100%{opacity:0}}
+#r1{transform-origin:20px 0;animation:r1 16.0s infinite}#k1{animation:k1 16.0s infinite,v1 16.0s step-end infinite}
+@keyframes r2{0%{transform:scaleX(0);animation-timing-function:step-end}50.000%{transform:scaleX(0);animation-timing-function:steps(41,end)}60.000%{transform:scaleX(1);animation-timing-function:step-end}71.875%{transform:scaleX(1);animation-timing-function:steps(41,end)}74.688%{transform:scaleX(0);animation-timing-function:step-end}100%{transform:scaleX(0)}}
+@keyframes k2{0%{transform:translateX(0px);animation-timing-function:step-end}50.000%{transform:translateX(0px);animation-timing-function:steps(41,end)}60.000%{transform:translateX(541.2px);animation-timing-function:step-end}71.875%{transform:translateX(541.2px);animation-timing-function:steps(41,end)}74.688%{transform:translateX(0px);animation-timing-function:step-end}100%{transform:translateX(0px)}}
+@keyframes v2{0%{opacity:0}50.000%{opacity:1}74.688%{opacity:0}100%{opacity:0}}
+#r2{transform-origin:20px 0;animation:r2 16.0s infinite}#k2{animation:k2 16.0s infinite,v2 16.0s step-end infinite}
+@keyframes r3{0%{transform:scaleX(0);animation-timing-function:step-end}75.000%{transform:scaleX(0);animation-timing-function:steps(37,end)}85.000%{transform:scaleX(1);animation-timing-function:step-end}96.875%{transform:scaleX(1);animation-timing-function:steps(37,end)}99.688%{transform:scaleX(0);animation-timing-function:step-end}100%{transform:scaleX(0)}}
+@keyframes k3{0%{transform:translateX(0px);animation-timing-function:step-end}75.000%{transform:translateX(0px);animation-timing-function:steps(37,end)}85.000%{transform:translateX(488.4px);animation-timing-function:step-end}96.875%{transform:translateX(488.4px);animation-timing-function:steps(37,end)}99.688%{transform:translateX(0px);animation-timing-function:step-end}100%{transform:translateX(0px)}}
+@keyframes v3{0%{opacity:0}75.000%{opacity:1}99.688%{opacity:0}100%{opacity:0}}
+#r3{transform-origin:20px 0;animation:r3 16.0s infinite}#k3{animation:k3 16.0s infinite,v3 16.0s step-end infinite}
+</style>
+<clipPath id="c0"><rect id="r0" x="20" y="0" width="277.2" height="60"/></clipPath>
+<text clip-path="url(#c0)" x="20" y="38">Full-stack developer.</text>
+<rect id="k0" class="cur" x="22" y="19" width="2" height="24"/>
+<clipPath id="c1"><rect id="r1" x="20" y="0" width="396.0" height="60"/></clipPath>
+<text clip-path="url(#c1)" x="20" y="38">FastAPI + SvelteKit + Flutter.</text>
+<rect id="k1" class="cur" x="22" y="19" width="2" height="24"/>
+<clipPath id="c2"><rect id="r2" x="20" y="0" width="541.2" height="60"/></clipPath>
+<text clip-path="url(#c2)" x="20" y="38">Multi-tenant SaaS, shipped to production.</text>
+<rect id="k2" class="cur" x="22" y="19" width="2" height="24"/>
+<clipPath id="c3"><rect id="r3" x="20" y="0" width="488.4" height="60"/></clipPath>
+<text clip-path="url(#c3)" x="20" y="38">From first commit to live in 12 days.</text>
+<rect id="k3" class="cur" x="22" y="19" width="2" height="24"/>
+</svg>

@@ -1,6 +1,8 @@
 # Efe Müderrisoğlu
 
-Full-stack developer. I build and ship multi-tenant SaaS products end to end: data model, API, web and mobile UI, deployment.
+<img src="assets/typing.svg" alt="Full-stack developer. FastAPI + SvelteKit + Flutter. Multi-tenant SaaS, shipped to production. From first commit to live in 12 days." />
+
+I build and ship multi-tenant SaaS products end to end: data model, API, web and mobile UI, deployment.
 
 **Python · FastAPI · SvelteKit · Flutter · MySQL · Redis · Docker**
 
@@ -32,7 +34,7 @@ One system with four role-based views on top of the same data:
 | **Management** | An overview with five headline numbers and a list of mentors who need attention. |
 
 <p>
-  <img src="assets/learn-mentor-today.png" width="100%" alt="Mentor today screen: next session, at-risk students, weekly calendar" />
+  <img src="assets/learn-demo.gif" width="100%" alt="Walkthrough: Kepler portal login, mentor today screen, student progress, student weekly plan, parent view on mobile" />
 </p>
 <p>
   <img src="assets/learn-student-progress.png" width="49%" alt="Student net score history" />
